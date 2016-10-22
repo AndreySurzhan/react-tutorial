@@ -23,5 +23,20 @@
         "id": 1464988717637,
         "author": "evil",
         "text": "<a href=\"javascript:alert(1)\">alert(1)</a>"
+    },
+    {
+        "id": 1477167995866,
+        "author": "TEST",
+        "text": "TESTSAY"
+    },
+    {
+        "id": 1477168021025,
+        "author": "TEST2",
+        "text": "TEST2"
+    },
+    {
+        "id": 1477168219567,
+        "author": "TEST3",
+        "text": "TEST3"
     }
 ]
